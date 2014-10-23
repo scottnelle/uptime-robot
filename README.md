@@ -1,4 +1,4 @@
-simple-301-redirects
+Uptime Robot
 ====================
 **Notice: This entire repository should be considered experimental. The stable version of this plugin should always be [downloaded from the WordPress Plugin Directory](https://wordpress.org/plugins/uptime-robot/ "Download the release version of Uptime Robot for WordPress").**
 
